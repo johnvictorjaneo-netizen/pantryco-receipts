@@ -306,7 +306,7 @@ public class ReceiptController {
                         }
 
                         table {
-                            width: 100%;
+                            width: 100%%;
                             border-collapse: collapse;
                             margin-top: 20px;
                             font-size: 14px;
